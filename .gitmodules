@@ -1,3 +1,6 @@
 [submodule "gitsup-demo-submodule"]
 	path = gitsup-demo-submodule
 	url = git@github.com:tgamauf/gitsup-demo-submodule.git
+[submodule "is-thirteen"]
+	path = is-thirteen
+	url = git@github.com:jezen/is-thirteen.git
